@@ -1,6 +1,12 @@
 # Mockapi
 
-Dynamic API mock which returns what you set up. You can fire it up with `docker run -d -p <desiredport>:5000 tomaszalesak/mockapi`.
+Dynamic API mock which returns what you set up.
+
+You can fire it up with:
+
+```
+docker run -d -p <desiredport>:5000 tomaszalesak/mockapi
+```
 
 ```json
 {
